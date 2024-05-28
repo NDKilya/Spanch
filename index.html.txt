@@ -1,35 +1,35 @@
-<!DOCTYPE html>
+
 <html>
 
   <head>
-    <title>Wild Animals Blog</title>
+    <title>SpongeBob characters</title>
     <meta charset="utf-8">
   </head>
 
   <body align=center>
 
-    <img width=100px src="pictures/paw_print.jpg">
+    <img width=100px src="pictures/AllPers.jpg">
     <h1>Wild Animals</h1>
-    <small>- Blog about nature -</small>
+    <small>- Blog about SpongeBob characters -</small>
 
     <br>
     <br>
     <br>
     <br>
 
-    <p>Let's talk about wild animals around the world:</p>
-    <h2>Giraffe</h2>
-    <img src="pictures/giraffe.jpg">
-    <p><b>Area:</b> Africa</p>
-    <p><b>Weight:</b> 900-1200kg</p>
-    <p><b>Height:</b> 6m</p>
+    <p>Let's talk about SpongeBob characters:</p>
+    <h2>SpanchBob</h2>
+    <img src="pictures/Spanchbob.jpg">
+    <p><b>Area:</b> Ocean</p>
+    <p><b>Weight:</b> 10gr</p>
+    <p><b>Height:</b> 12sm</p>
     <br>
 
-    <h2>Elehant</h2>
-    <img width=350px src="pictures/elephant.jpg">
-    <p><b>Area:</b> Africa, Asia</p>
-    <p><b>Weight:</b> 4000-7000kg</p>
-    <p><b>Height:</b> 3m</p>
+    <h2>Patric</h2>
+    <img width=350px src="pictures/Patric.jpg">
+    <p><b>Area:</b> Ocean</p>
+    <p><b>Weight:</b> 56gr</p>
+    <p><b>Height:</b> 15sm</p>
     <br>
 
   </body>
